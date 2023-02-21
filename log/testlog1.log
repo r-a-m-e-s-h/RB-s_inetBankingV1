@@ -1,0 +1,655 @@
+2023-02-17 20:31:34,875 [main] INFO ebanking - URL is Opened
+2023-02-17 20:31:35,511 [main] INFO ebanking - Username is Entered
+2023-02-17 20:31:35,685 [main] INFO ebanking - UPassword is Entered
+2023-02-17 20:31:37,609 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 20:31:38,445 [main] INFO ebanking - Logout Button is clicked
+2023-02-17 20:43:07,215 [main] INFO ebanking - URL is Opened
+2023-02-17 20:46:50,609 [main] INFO ebanking - URL is Opened
+2023-02-17 20:46:50,979 [main] INFO ebanking - Username is Entered
+2023-02-17 20:46:51,350 [main] INFO ebanking - UPassword is Entered
+2023-02-17 20:46:53,365 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 20:46:54,425 [main] INFO ebanking - Logout Button is clicked
+2023-02-17 21:29:37,806 [main] INFO ebanking - URL is Opened
+2023-02-17 21:29:38,628 [main] INFO ebanking - Username is Entered
+2023-02-17 21:29:38,796 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:29:40,573 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 21:29:41,335 [main] INFO ebanking - Logout Button is clicked
+2023-02-17 21:35:40,741 [main] INFO ebanking - URL is Opened
+2023-02-17 21:35:42,067 [main] INFO ebanking - Username is Entered
+2023-02-17 21:35:42,594 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:35:43,696 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 21:35:44,020 [main] INFO ebanking - URL is Opened
+2023-02-17 21:35:48,440 [main] INFO ebanking - Username is Entered
+2023-02-17 21:35:49,257 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:35:50,393 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 21:35:50,471 [main] INFO ebanking - URL is Opened
+2023-02-17 21:35:53,387 [main] INFO ebanking - Username is Entered
+2023-02-17 21:35:58,539 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:36:00,487 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 21:36:00,599 [main] INFO ebanking - URL is Opened
+2023-02-17 21:36:08,886 [main] INFO ebanking - Username is Entered
+2023-02-17 21:36:09,422 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:36:10,469 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 21:36:10,569 [main] INFO ebanking - URL is Opened
+2023-02-17 21:36:13,798 [main] INFO ebanking - Username is Entered
+2023-02-17 21:36:14,254 [main] INFO ebanking - UPassword is Entered
+2023-02-17 21:36:16,803 [main] INFO ebanking - Submit Button is Clicked
+2023-02-17 22:04:31,097 [main] INFO ebanking - URL is Opened
+2023-02-17 22:04:32,019 [main] INFO ebanking - Username is Entered
+2023-02-17 22:04:32,233 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:04:33,377 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:04:44,035 [main] INFO ebanking - URL is Opened
+2023-02-17 22:04:44,873 [main] INFO ebanking - Username is Entered
+2023-02-17 22:04:45,161 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:04:46,264 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:04:51,687 [main] INFO ebanking - URL is Opened
+2023-02-17 22:04:53,212 [main] INFO ebanking - Username is Entered
+2023-02-17 22:04:53,447 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:04:54,498 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:04:59,401 [main] INFO ebanking - URL is Opened
+2023-02-17 22:05:00,080 [main] INFO ebanking - Username is Entered
+2023-02-17 22:05:00,265 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:05:01,464 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:05:06,308 [main] INFO ebanking - URL is Opened
+2023-02-17 22:05:06,877 [main] INFO ebanking - Username is Entered
+2023-02-17 22:05:07,015 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:05:07,480 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:06:23,131 [main] INFO ebanking - URL is Opened
+2023-02-17 22:06:23,961 [main] INFO ebanking - Username is Entered
+2023-02-17 22:06:24,170 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:06:26,333 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:06:37,912 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-17 22:06:37,937 [main] INFO ebanking - URL is Opened
+2023-02-17 22:06:38,768 [main] INFO ebanking - Username is Entered
+2023-02-17 22:06:38,968 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:06:40,086 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:06:45,229 [main] INFO ebanking - URL is Opened
+2023-02-17 22:06:45,885 [main] INFO ebanking - Username is Entered
+2023-02-17 22:06:46,202 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:06:47,197 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:06:52,042 [main] INFO ebanking - URL is Opened
+2023-02-17 22:06:52,657 [main] INFO ebanking - Username is Entered
+2023-02-17 22:06:52,840 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:06:53,374 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:06:58,197 [main] INFO ebanking - URL is Opened
+2023-02-17 22:06:58,889 [main] INFO ebanking - Username is Entered
+2023-02-17 22:06:58,995 [main] INFO ebanking - UPassword is Entered
+2023-02-17 22:07:00,321 [main] INFO ebanking - submitBtn is Clicked
+2023-02-17 22:07:05,475 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-18 08:14:50,455 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:16:45,114 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:17:53,407 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:18:24,830 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:20:58,817 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:22:55,206 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:26:58,402 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:35:38,009 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:35:45,897 [main] INFO ebanking - gender is selected
+2023-02-18 08:35:46,380 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 08:35:46,500 [main] INFO ebanking - address is entered
+2023-02-18 08:35:46,719 [main] INFO ebanking - City is entered
+2023-02-18 08:35:46,899 [main] INFO ebanking - State is entered
+2023-02-18 08:35:47,116 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 08:35:47,273 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 08:37:35,111 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:37:37,672 [main] INFO ebanking - UserName is entered
+2023-02-18 08:37:38,059 [main] INFO ebanking - gender is selected
+2023-02-18 08:37:38,322 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 08:37:38,468 [main] INFO ebanking - address is entered
+2023-02-18 08:37:38,687 [main] INFO ebanking - City is entered
+2023-02-18 08:37:38,841 [main] INFO ebanking - State is entered
+2023-02-18 08:37:38,983 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 08:37:39,099 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 08:40:35,931 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:40:39,150 [main] INFO ebanking - UserName is entered
+2023-02-18 08:40:39,430 [main] INFO ebanking - gender is selected
+2023-02-18 08:40:39,746 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 08:40:39,934 [main] INFO ebanking - address is entered
+2023-02-18 08:40:40,191 [main] INFO ebanking - City is entered
+2023-02-18 08:40:40,373 [main] INFO ebanking - State is entered
+2023-02-18 08:40:40,535 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 08:40:40,663 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 08:43:47,687 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 08:43:52,079 [main] INFO ebanking - UserName is entered
+2023-02-18 08:43:52,165 [main] INFO ebanking - gender is selected
+2023-02-18 08:43:52,711 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 08:43:52,814 [main] INFO ebanking - address is entered
+2023-02-18 08:43:52,986 [main] INFO ebanking - City is entered
+2023-02-18 08:43:53,246 [main] INFO ebanking - State is entered
+2023-02-18 08:43:53,538 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 08:43:53,692 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 08:43:55,826 [main] INFO ebanking - EmailId is entered
+2023-02-18 08:43:56,379 [main] INFO ebanking - Submit btn is clicked
+2023-02-18 16:07:22,968 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 16:07:32,576 [main] INFO ebanking - UserName is entered
+2023-02-18 16:07:32,769 [main] INFO ebanking - gender is selected
+2023-02-18 16:07:32,981 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 16:07:33,110 [main] INFO ebanking - address is entered
+2023-02-18 16:07:33,291 [main] INFO ebanking - City is entered
+2023-02-18 16:07:33,428 [main] INFO ebanking - State is entered
+2023-02-18 16:07:33,597 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 16:07:33,792 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 16:07:35,952 [main] INFO ebanking - EmailId is entered
+2023-02-18 16:07:36,436 [main] INFO ebanking - Submit btn is clicked
+2023-02-18 16:17:37,046 [main] INFO ebanking - URL is Opened
+2023-02-18 16:17:37,376 [main] INFO ebanking - Username is Entered
+2023-02-18 16:17:37,526 [main] INFO ebanking - UPassword is Entered
+2023-02-18 16:17:39,737 [main] INFO ebanking - submitBtn is Clicked
+2023-02-18 16:17:45,339 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-18 16:17:45,561 [main] INFO ebanking - URL is Opened
+2023-02-18 16:17:46,003 [main] INFO ebanking - Username is Entered
+2023-02-18 16:17:46,145 [main] INFO ebanking - UPassword is Entered
+2023-02-18 16:17:46,587 [main] INFO ebanking - submitBtn is Clicked
+2023-02-18 16:17:51,358 [main] INFO ebanking - URL is Opened
+2023-02-18 16:17:51,705 [main] INFO ebanking - Username is Entered
+2023-02-18 16:17:51,825 [main] INFO ebanking - UPassword is Entered
+2023-02-18 16:17:52,406 [main] INFO ebanking - submitBtn is Clicked
+2023-02-18 16:17:58,636 [main] INFO ebanking - URL is Opened
+2023-02-18 16:17:59,419 [main] INFO ebanking - Username is Entered
+2023-02-18 16:17:59,569 [main] INFO ebanking - UPassword is Entered
+2023-02-18 16:18:00,661 [main] INFO ebanking - submitBtn is Clicked
+2023-02-18 16:18:05,618 [main] INFO ebanking - URL is Opened
+2023-02-18 16:18:05,958 [main] INFO ebanking - Username is Entered
+2023-02-18 16:18:06,066 [main] INFO ebanking - UPassword is Entered
+2023-02-18 16:18:07,364 [main] INFO ebanking - submitBtn is Clicked
+2023-02-18 16:18:12,620 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-18 16:18:25,520 [main] INFO ebanking - new customer btn is clicked
+2023-02-18 16:18:30,592 [main] INFO ebanking - UserName is entered
+2023-02-18 16:18:30,840 [main] INFO ebanking - gender is selected
+2023-02-18 16:18:31,070 [main] INFO ebanking - Date  btn is Entered
+2023-02-18 16:18:31,215 [main] INFO ebanking - address is entered
+2023-02-18 16:18:31,330 [main] INFO ebanking - City is entered
+2023-02-18 16:18:31,452 [main] INFO ebanking - State is entered
+2023-02-18 16:18:31,608 [main] INFO ebanking - PinNumber btn is entered
+2023-02-18 16:18:31,738 [main] INFO ebanking - PhoneNumber is entered
+2023-02-18 16:18:33,908 [main] INFO ebanking - EmailId is entered
+2023-02-18 16:18:34,420 [main] INFO ebanking - Submit btn is clicked
+2023-02-19 23:39:36,361 [main] INFO ebanking - URL is Opened
+2023-02-19 23:39:36,814 [main] INFO ebanking - Username is Entered
+2023-02-19 23:39:36,961 [main] INFO ebanking - UPassword is Entered
+2023-02-19 23:39:39,455 [main] INFO ebanking - submitBtn is Clicked
+2023-02-19 23:39:45,490 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-19 23:39:46,045 [main] INFO ebanking - URL is Opened
+2023-02-19 23:39:46,228 [main] INFO ebanking - Username is Entered
+2023-02-19 23:39:46,346 [main] INFO ebanking - UPassword is Entered
+2023-02-19 23:39:47,539 [main] INFO ebanking - submitBtn is Clicked
+2023-02-19 23:39:55,986 [main] INFO ebanking - URL is Opened
+2023-02-19 23:39:57,096 [main] INFO ebanking - Username is Entered
+2023-02-19 23:39:57,450 [main] INFO ebanking - UPassword is Entered
+2023-02-19 23:39:58,773 [main] INFO ebanking - submitBtn is Clicked
+2023-02-19 23:40:04,843 [main] INFO ebanking - URL is Opened
+2023-02-19 23:40:05,470 [main] INFO ebanking - Username is Entered
+2023-02-19 23:40:05,628 [main] INFO ebanking - UPassword is Entered
+2023-02-19 23:40:06,674 [main] INFO ebanking - submitBtn is Clicked
+2023-02-19 23:40:11,691 [main] INFO ebanking - URL is Opened
+2023-02-19 23:40:12,193 [main] INFO ebanking - Username is Entered
+2023-02-19 23:40:12,315 [main] INFO ebanking - UPassword is Entered
+2023-02-19 23:40:13,772 [main] INFO ebanking - submitBtn is Clicked
+2023-02-19 23:40:19,213 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-19 23:40:32,527 [main] INFO ebanking - new customer btn is clicked
+2023-02-20 12:42:58,832 [main] INFO ebanking - new customer btn is clicked
+2023-02-20 12:43:03,881 [main] INFO ebanking - UserName is entered
+2023-02-20 12:43:04,085 [main] INFO ebanking - gender is selected
+2023-02-20 12:43:04,330 [main] INFO ebanking - Date  btn is Entered
+2023-02-20 12:43:04,453 [main] INFO ebanking - address is entered
+2023-02-20 12:43:04,787 [main] INFO ebanking - City is entered
+2023-02-20 12:43:04,936 [main] INFO ebanking - State is entered
+2023-02-20 12:43:05,094 [main] INFO ebanking - PinNumber btn is entered
+2023-02-20 12:43:05,374 [main] INFO ebanking - PhoneNumber is entered
+2023-02-20 12:43:07,550 [main] INFO ebanking - EmailId is entered
+2023-02-20 12:43:08,539 [main] INFO ebanking - Submit btn is clicked
+2023-02-20 13:53:40,536 [main] INFO ebanking - URL is Opened
+2023-02-20 13:53:41,199 [main] INFO ebanking - Username is Entered
+2023-02-20 13:53:41,350 [main] INFO ebanking - UPassword is Entered
+2023-02-20 13:53:43,164 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 13:53:43,924 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 13:54:33,817 [main] INFO ebanking - URL is Opened
+2023-02-20 13:54:34,435 [main] INFO ebanking - Username is Entered
+2023-02-20 13:54:34,548 [main] INFO ebanking - UPassword is Entered
+2023-02-20 13:54:36,426 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 13:54:37,215 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 13:58:02,858 [main] INFO ebanking - URL is Opened
+2023-02-20 13:58:03,247 [main] INFO ebanking - Username is Entered
+2023-02-20 13:58:03,504 [main] INFO ebanking - UPassword is Entered
+2023-02-20 13:58:05,441 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 13:58:06,191 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 16:05:53,033 [main] INFO ebanking - URL is Opened
+2023-02-20 16:05:53,673 [main] INFO ebanking - Username is Entered
+2023-02-20 16:05:53,979 [main] INFO ebanking - UPassword is Entered
+2023-02-20 16:05:55,897 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 16:05:56,672 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 18:55:41,605 [main] INFO ebanking - URL is Opened
+2023-02-20 18:55:42,213 [main] INFO ebanking - Username is Entered
+2023-02-20 18:55:42,361 [main] INFO ebanking - UPassword is Entered
+2023-02-20 18:55:43,042 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 18:55:45,014 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 18:56:33,498 [main] INFO ebanking - URL is Opened
+2023-02-20 18:56:34,217 [main] INFO ebanking - Username is Entered
+2023-02-20 18:56:34,327 [main] INFO ebanking - UPassword is Entered
+2023-02-20 18:56:36,623 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 18:56:37,452 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 20:36:19,408 [main] INFO ebanking - URL is Opened
+2023-02-20 20:36:20,445 [main] INFO ebanking - Username is Entered
+2023-02-20 20:36:20,607 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:36:22,063 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 20:36:23,365 [main] INFO ebanking - Logout Button is clicked
+2023-02-20 20:36:35,856 [main] INFO ebanking - URL is Opened
+2023-02-20 20:36:36,207 [main] INFO ebanking - Username is Entered
+2023-02-20 20:36:36,318 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:36:38,191 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:36:44,288 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-20 20:36:44,852 [main] INFO ebanking - URL is Opened
+2023-02-20 20:36:45,012 [main] INFO ebanking - Username is Entered
+2023-02-20 20:36:45,135 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:36:46,292 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:36:51,284 [main] INFO ebanking - URL is Opened
+2023-02-20 20:36:51,549 [main] INFO ebanking - Username is Entered
+2023-02-20 20:36:52,230 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:36:53,741 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:36:59,549 [main] INFO ebanking - URL is Opened
+2023-02-20 20:36:59,735 [main] INFO ebanking - Username is Entered
+2023-02-20 20:37:00,167 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:37:00,780 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:37:05,623 [main] INFO ebanking - URL is Opened
+2023-02-20 20:37:06,320 [main] INFO ebanking - Username is Entered
+2023-02-20 20:37:06,422 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:37:07,758 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:37:13,180 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-20 20:37:26,028 [main] INFO ebanking - new customer btn is clicked
+2023-02-20 20:39:44,445 [main] INFO ebanking - URL is Opened
+2023-02-20 20:39:45,449 [main] INFO ebanking - Username is Entered
+2023-02-20 20:39:45,590 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:39:47,274 [main] INFO ebanking - Submit Button is Clicked
+2023-02-20 20:43:21,274 [main] INFO ebanking - URL is Opened
+2023-02-20 20:43:21,557 [main] INFO ebanking - Username is Entered
+2023-02-20 20:43:21,710 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:43:23,454 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:43:29,020 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-20 20:43:29,861 [main] INFO ebanking - URL is Opened
+2023-02-20 20:43:30,033 [main] INFO ebanking - Username is Entered
+2023-02-20 20:43:30,180 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:43:31,180 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:43:36,089 [main] INFO ebanking - URL is Opened
+2023-02-20 20:43:36,236 [main] INFO ebanking - Username is Entered
+2023-02-20 20:43:36,916 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:43:37,459 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:43:42,795 [main] INFO ebanking - URL is Opened
+2023-02-20 20:43:42,924 [main] INFO ebanking - Username is Entered
+2023-02-20 20:43:43,538 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:43:44,616 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:43:49,652 [main] INFO ebanking - URL is Opened
+2023-02-20 20:43:50,184 [main] INFO ebanking - Username is Entered
+2023-02-20 20:43:50,296 [main] INFO ebanking - UPassword is Entered
+2023-02-20 20:43:51,484 [main] INFO ebanking - submitBtn is Clicked
+2023-02-20 20:43:57,278 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-20 20:44:09,851 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 00:08:04,295 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:05,406 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:05,559 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:07,477 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 00:08:08,746 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 00:08:22,002 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:22,305 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:22,421 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:24,144 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:08:30,041 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:08:30,323 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:30,542 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:30,683 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:31,163 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:08:36,060 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:36,374 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:36,555 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:37,025 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:08:45,025 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:45,263 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:45,547 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:46,596 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:08:51,729 [main] INFO ebanking - URL is Opened
+2023-02-21 00:08:51,895 [main] INFO ebanking - Username is Entered
+2023-02-21 00:08:52,062 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:08:53,675 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:08:59,387 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:09:11,330 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 00:09:14,839 [main] INFO ebanking - UserName is entered
+2023-02-21 00:09:15,049 [main] INFO ebanking - gender is selected
+2023-02-21 00:09:15,295 [main] INFO ebanking - Date  btn is Entered
+2023-02-21 00:09:15,404 [main] INFO ebanking - address is entered
+2023-02-21 00:09:15,523 [main] INFO ebanking - City is entered
+2023-02-21 00:09:15,635 [main] INFO ebanking - State is entered
+2023-02-21 00:09:15,759 [main] INFO ebanking - PinNumber btn is entered
+2023-02-21 00:09:15,880 [main] INFO ebanking - PhoneNumber is entered
+2023-02-21 00:09:18,033 [main] INFO ebanking - EmailId is entered
+2023-02-21 00:09:18,602 [main] INFO ebanking - Submit btn is clicked
+2023-02-21 00:14:27,996 [main] INFO ebanking - URL is Opened
+2023-02-21 00:14:28,463 [main] INFO ebanking - Username is Entered
+2023-02-21 00:14:28,684 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:14:30,664 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 00:14:31,599 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 00:14:43,171 [main] INFO ebanking - URL is Opened
+2023-02-21 00:14:43,576 [main] INFO ebanking - Username is Entered
+2023-02-21 00:14:43,719 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:14:45,453 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:14:50,714 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:14:51,138 [main] INFO ebanking - URL is Opened
+2023-02-21 00:14:51,253 [main] INFO ebanking - Username is Entered
+2023-02-21 00:14:51,355 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:14:51,824 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:14:56,663 [main] INFO ebanking - URL is Opened
+2023-02-21 00:14:57,253 [main] INFO ebanking - Username is Entered
+2023-02-21 00:14:57,392 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:14:57,830 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:15:04,342 [main] INFO ebanking - URL is Opened
+2023-02-21 00:15:04,565 [main] INFO ebanking - Username is Entered
+2023-02-21 00:15:04,755 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:15:06,462 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:15:11,966 [main] INFO ebanking - URL is Opened
+2023-02-21 00:15:12,083 [main] INFO ebanking - Username is Entered
+2023-02-21 00:15:12,181 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:15:13,493 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:15:18,813 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:15:30,191 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 00:15:32,684 [main] INFO ebanking - UserName is entered
+2023-02-21 00:15:32,862 [main] INFO ebanking - gender is selected
+2023-02-21 00:15:33,090 [main] INFO ebanking - Date  btn is Entered
+2023-02-21 00:15:33,223 [main] INFO ebanking - address is entered
+2023-02-21 00:15:33,327 [main] INFO ebanking - City is entered
+2023-02-21 00:15:33,430 [main] INFO ebanking - State is entered
+2023-02-21 00:15:33,534 [main] INFO ebanking - PinNumber btn is entered
+2023-02-21 00:15:33,645 [main] INFO ebanking - PhoneNumber is entered
+2023-02-21 00:15:35,821 [main] INFO ebanking - EmailId is entered
+2023-02-21 00:15:36,932 [main] INFO ebanking - Submit btn is clicked
+2023-02-21 00:16:44,447 [main] INFO ebanking - URL is Opened
+2023-02-21 00:16:45,118 [main] INFO ebanking - Username is Entered
+2023-02-21 00:16:45,249 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:16:47,454 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 00:16:48,940 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 00:17:02,749 [main] INFO ebanking - URL is Opened
+2023-02-21 00:17:03,237 [main] INFO ebanking - Username is Entered
+2023-02-21 00:17:03,838 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:18:32,237 [main] INFO ebanking - URL is Opened
+2023-02-21 00:18:32,548 [main] INFO ebanking - Username is Entered
+2023-02-21 00:18:32,777 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:18:34,365 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 00:18:35,142 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 00:18:48,354 [main] INFO ebanking - URL is Opened
+2023-02-21 00:18:48,627 [main] INFO ebanking - Username is Entered
+2023-02-21 00:18:48,734 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:18:50,749 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:18:56,910 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:18:57,341 [main] INFO ebanking - URL is Opened
+2023-02-21 00:18:57,592 [main] INFO ebanking - Username is Entered
+2023-02-21 00:18:57,714 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:18:58,737 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:19:03,673 [main] INFO ebanking - URL is Opened
+2023-02-21 00:19:04,043 [main] INFO ebanking - Username is Entered
+2023-02-21 00:19:04,161 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:19:04,653 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:19:09,847 [main] INFO ebanking - URL is Opened
+2023-02-21 00:19:10,148 [main] INFO ebanking - Username is Entered
+2023-02-21 00:19:10,245 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:19:10,735 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:19:15,687 [main] INFO ebanking - URL is Opened
+2023-02-21 00:19:16,100 [main] INFO ebanking - Username is Entered
+2023-02-21 00:19:16,202 [main] INFO ebanking - UPassword is Entered
+2023-02-21 00:19:17,389 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 00:19:22,616 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 00:19:33,451 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 00:19:36,438 [main] INFO ebanking - UserName is entered
+2023-02-21 00:19:36,594 [main] INFO ebanking - gender is selected
+2023-02-21 00:19:36,820 [main] INFO ebanking - Date  btn is Entered
+2023-02-21 00:19:36,924 [main] INFO ebanking - address is entered
+2023-02-21 00:19:37,032 [main] INFO ebanking - City is entered
+2023-02-21 00:19:37,134 [main] INFO ebanking - State is entered
+2023-02-21 00:19:37,238 [main] INFO ebanking - PinNumber btn is entered
+2023-02-21 00:19:37,339 [main] INFO ebanking - PhoneNumber is entered
+2023-02-21 00:19:39,521 [main] INFO ebanking - EmailId is entered
+2023-02-21 00:19:39,999 [main] INFO ebanking - Submit btn is clicked
+2023-02-21 01:07:25,801 [main] INFO ebanking - URL is Opened
+2023-02-21 01:07:26,226 [main] INFO ebanking - Username is Entered
+2023-02-21 01:07:26,830 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:07:29,007 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:07:29,867 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:07:42,493 [main] INFO ebanking - URL is Opened
+2023-02-21 01:07:42,899 [main] INFO ebanking - Username is Entered
+2023-02-21 01:07:43,020 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:07:45,491 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:07:52,262 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:07:53,335 [main] INFO ebanking - URL is Opened
+2023-02-21 01:07:53,515 [main] INFO ebanking - Username is Entered
+2023-02-21 01:07:53,649 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:07:54,734 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:08:03,165 [main] INFO ebanking - URL is Opened
+2023-02-21 01:08:03,343 [main] INFO ebanking - Username is Entered
+2023-02-21 01:08:03,529 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:08:04,636 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:08:10,218 [main] INFO ebanking - URL is Opened
+2023-02-21 01:08:10,351 [main] INFO ebanking - Username is Entered
+2023-02-21 01:08:10,868 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:08:11,850 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:08:16,973 [main] INFO ebanking - URL is Opened
+2023-02-21 01:08:17,288 [main] INFO ebanking - Username is Entered
+2023-02-21 01:08:17,396 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:08:18,572 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:08:24,012 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:08:36,691 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 01:12:19,551 [main] INFO ebanking - URL is Opened
+2023-02-21 01:12:20,277 [main] INFO ebanking - Username is Entered
+2023-02-21 01:12:20,529 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:12:22,210 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:12:22,965 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:12:34,428 [main] INFO ebanking - URL is Opened
+2023-02-21 01:12:34,628 [main] INFO ebanking - Username is Entered
+2023-02-21 01:12:34,726 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:12:37,014 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:12:43,703 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:12:43,868 [main] INFO ebanking - URL is Opened
+2023-02-21 01:12:45,287 [main] INFO ebanking - Username is Entered
+2023-02-21 01:12:45,562 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:12:46,625 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:12:54,972 [main] INFO ebanking - URL is Opened
+2023-02-21 01:12:55,590 [main] INFO ebanking - Username is Entered
+2023-02-21 01:12:55,719 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:12:56,694 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:13:02,115 [main] INFO ebanking - URL is Opened
+2023-02-21 01:13:02,224 [main] INFO ebanking - Username is Entered
+2023-02-21 01:13:02,333 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:13:02,860 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:13:07,886 [main] INFO ebanking - URL is Opened
+2023-02-21 01:13:08,299 [main] INFO ebanking - Username is Entered
+2023-02-21 01:13:08,405 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:13:09,711 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:13:15,377 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:13:27,539 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 01:14:53,962 [main] INFO ebanking - URL is Opened
+2023-02-21 01:14:54,241 [main] INFO ebanking - Username is Entered
+2023-02-21 01:14:54,726 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:14:55,277 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:14:57,486 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:15:10,037 [main] INFO ebanking - URL is Opened
+2023-02-21 01:15:10,413 [main] INFO ebanking - Username is Entered
+2023-02-21 01:15:10,527 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:15:12,673 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:15:18,816 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:15:19,417 [main] INFO ebanking - URL is Opened
+2023-02-21 01:15:19,541 [main] INFO ebanking - Username is Entered
+2023-02-21 01:15:19,828 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:15:20,853 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:15:25,904 [main] INFO ebanking - URL is Opened
+2023-02-21 01:15:27,203 [main] INFO ebanking - Username is Entered
+2023-02-21 01:15:27,461 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:15:30,133 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:15:35,193 [main] INFO ebanking - URL is Opened
+2023-02-21 01:15:35,428 [main] INFO ebanking - Username is Entered
+2023-02-21 01:15:35,810 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:15:36,261 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:15:41,235 [main] INFO ebanking - URL is Opened
+2023-02-21 01:15:41,671 [main] INFO ebanking - Username is Entered
+2023-02-21 01:15:41,786 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:15:43,041 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:15:48,414 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:15:58,929 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 01:16:41,446 [main] INFO ebanking - URL is Opened
+2023-02-21 01:16:42,044 [main] INFO ebanking - Username is Entered
+2023-02-21 01:16:42,426 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:16:44,078 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:20:20,017 [main] INFO ebanking - URL is Opened
+2023-02-21 01:20:20,184 [main] INFO ebanking - Username is Entered
+2023-02-21 01:20:20,301 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:20:22,622 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:20:29,295 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:20:29,961 [main] INFO ebanking - URL is Opened
+2023-02-21 01:20:30,073 [main] INFO ebanking - Username is Entered
+2023-02-21 01:20:30,180 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:20:31,189 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:20:38,358 [main] INFO ebanking - URL is Opened
+2023-02-21 01:20:39,169 [main] INFO ebanking - Username is Entered
+2023-02-21 01:20:39,461 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:20:41,189 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:20:46,890 [main] INFO ebanking - URL is Opened
+2023-02-21 01:20:47,284 [main] INFO ebanking - Username is Entered
+2023-02-21 01:20:47,391 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:20:48,341 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:20:53,545 [main] INFO ebanking - URL is Opened
+2023-02-21 01:20:53,841 [main] INFO ebanking - Username is Entered
+2023-02-21 01:20:53,942 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:20:54,912 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:21:00,867 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:21:13,253 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 01:23:55,190 [main] INFO ebanking - URL is Opened
+2023-02-21 01:23:55,836 [main] INFO ebanking - Username is Entered
+2023-02-21 01:23:56,221 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:23:57,893 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:23:59,554 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:27:47,413 [main] INFO ebanking - URL is Opened
+2023-02-21 01:27:48,012 [main] INFO ebanking - Username is Entered
+2023-02-21 01:27:48,226 [main] INFO ebanking - Password is Entered
+2023-02-21 01:27:50,128 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:27:51,406 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:27:53,190 [main] INFO ebanking - Login Test Failed
+2023-02-21 01:29:35,589 [main] INFO ebanking - URL is Opened
+2023-02-21 01:29:35,833 [main] INFO ebanking - Username is Entered
+2023-02-21 01:29:36,223 [main] INFO ebanking - Password is Entered
+2023-02-21 01:29:37,952 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:29:39,366 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:29:42,749 [main] INFO ebanking - Login Test Failed
+2023-02-21 01:29:51,374 [main] INFO ebanking - URL is Opened
+2023-02-21 01:29:51,633 [main] INFO ebanking - Username is Entered
+2023-02-21 01:29:51,763 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:29:54,023 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:30:00,568 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:30:00,822 [main] INFO ebanking - URL is Opened
+2023-02-21 01:30:01,284 [main] INFO ebanking - Username is Entered
+2023-02-21 01:30:01,397 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:30:02,456 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:30:07,629 [main] INFO ebanking - URL is Opened
+2023-02-21 01:30:08,660 [main] INFO ebanking - Username is Entered
+2023-02-21 01:30:08,769 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:30:09,803 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:30:17,730 [main] INFO ebanking - URL is Opened
+2023-02-21 01:30:18,132 [main] INFO ebanking - Username is Entered
+2023-02-21 01:30:18,234 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:30:19,230 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:30:24,629 [main] INFO ebanking - URL is Opened
+2023-02-21 01:30:24,955 [main] INFO ebanking - Username is Entered
+2023-02-21 01:30:25,052 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:30:26,563 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:30:31,779 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:30:43,592 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 01:31:32,400 [main] INFO ebanking - URL is Opened
+2023-02-21 01:31:33,902 [main] INFO ebanking - Username is Entered
+2023-02-21 01:31:34,145 [main] INFO ebanking - Password is Entered
+2023-02-21 01:31:36,741 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 01:31:37,914 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 01:31:40,019 [main] INFO ebanking - Login Test Failed
+2023-02-21 01:31:52,951 [main] INFO ebanking - URL is Opened
+2023-02-21 01:31:53,269 [main] INFO ebanking - Username is Entered
+2023-02-21 01:31:53,416 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:31:56,094 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:32:02,194 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:32:02,506 [main] INFO ebanking - URL is Opened
+2023-02-21 01:32:02,937 [main] INFO ebanking - Username is Entered
+2023-02-21 01:32:03,053 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:32:04,061 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:32:11,637 [main] INFO ebanking - URL is Opened
+2023-02-21 01:32:15,832 [main] INFO ebanking - Username is Entered
+2023-02-21 01:32:16,151 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:32:17,859 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:32:27,240 [main] INFO ebanking - URL is Opened
+2023-02-21 01:32:27,604 [main] INFO ebanking - Username is Entered
+2023-02-21 01:32:27,717 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:32:28,710 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:32:33,368 [main] INFO ebanking - URL is Opened
+2023-02-21 01:32:33,596 [main] INFO ebanking - Username is Entered
+2023-02-21 01:32:33,822 [main] INFO ebanking - UPassword is Entered
+2023-02-21 01:32:35,062 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 01:32:40,911 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 01:33:03,972 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 02:18:22,464 [main] INFO ebanking - URL is Opened
+2023-02-21 02:18:23,385 [main] INFO ebanking - Username is Entered
+2023-02-21 02:18:23,677 [main] INFO ebanking - Password is Entered
+2023-02-21 02:18:25,618 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 02:18:26,659 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 02:18:29,287 [main] INFO ebanking - Login Test Failed
+2023-02-21 02:18:40,918 [main] INFO ebanking - URL is Opened
+2023-02-21 02:18:41,162 [main] INFO ebanking - Username is Entered
+2023-02-21 02:18:41,341 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:18:43,385 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:18:49,150 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 02:18:49,642 [main] INFO ebanking - URL is Opened
+2023-02-21 02:18:49,800 [main] INFO ebanking - Username is Entered
+2023-02-21 02:18:50,075 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:18:51,339 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:18:56,589 [main] INFO ebanking - URL is Opened
+2023-02-21 02:18:57,960 [main] INFO ebanking - Username is Entered
+2023-02-21 02:18:58,261 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:19:03,132 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:19:09,069 [main] INFO ebanking - URL is Opened
+2023-02-21 02:19:09,510 [main] INFO ebanking - Username is Entered
+2023-02-21 02:19:09,657 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:19:10,634 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:19:15,804 [main] INFO ebanking - URL is Opened
+2023-02-21 02:19:16,347 [main] INFO ebanking - Username is Entered
+2023-02-21 02:19:16,464 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:19:17,853 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:19:23,766 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 02:19:34,692 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 02:20:34,818 [main] INFO ebanking - URL is Opened
+2023-02-21 02:20:35,139 [main] INFO ebanking - Username is Entered
+2023-02-21 02:20:35,366 [main] INFO ebanking - Password is Entered
+2023-02-21 02:20:36,155 [main] INFO ebanking - Submit Button is Clicked
+2023-02-21 02:20:37,845 [main] INFO ebanking - Logout Button is clicked
+2023-02-21 02:20:39,711 [main] INFO ebanking - Login Test Failed
+2023-02-21 02:20:51,735 [main] INFO ebanking - URL is Opened
+2023-02-21 02:20:52,028 [main] INFO ebanking - Username is Entered
+2023-02-21 02:20:52,127 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:20:54,273 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:20:59,619 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 02:21:00,077 [main] INFO ebanking - URL is Opened
+2023-02-21 02:21:00,195 [main] INFO ebanking - Username is Entered
+2023-02-21 02:21:00,306 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:21:00,883 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:21:05,805 [main] INFO ebanking - URL is Opened
+2023-02-21 02:21:06,206 [main] INFO ebanking - Username is Entered
+2023-02-21 02:21:06,310 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:21:07,005 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:21:18,373 [main] INFO ebanking - URL is Opened
+2023-02-21 02:21:18,520 [main] INFO ebanking - Username is Entered
+2023-02-21 02:21:18,886 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:21:20,068 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:21:25,227 [main] INFO ebanking - URL is Opened
+2023-02-21 02:21:25,450 [main] INFO ebanking - Username is Entered
+2023-02-21 02:21:25,680 [main] INFO ebanking - UPassword is Entered
+2023-02-21 02:21:26,935 [main] INFO ebanking - submitBtn is Clicked
+2023-02-21 02:21:32,653 [main] INFO ebanking - LogOutBtn is Clicked
+2023-02-21 02:21:47,046 [main] INFO ebanking - new customer btn is clicked
+2023-02-21 02:21:47,441 [main] INFO ebanking - UserName is entered
+2023-02-21 02:21:47,569 [main] INFO ebanking - gender is selected
+2023-02-21 02:21:47,918 [main] INFO ebanking - Date  btn is Entered
+2023-02-21 02:21:48,078 [main] INFO ebanking - address is entered
+2023-02-21 02:21:48,181 [main] INFO ebanking - City is entered
+2023-02-21 02:21:48,291 [main] INFO ebanking - State is entered
+2023-02-21 02:21:48,434 [main] INFO ebanking - PinNumber btn is entered
+2023-02-21 02:21:48,556 [main] INFO ebanking - PhoneNumber is entered
+2023-02-21 02:21:50,701 [main] INFO ebanking - EmailId is entered
+2023-02-21 02:21:51,211 [main] INFO ebanking - Submit btn is clicked
