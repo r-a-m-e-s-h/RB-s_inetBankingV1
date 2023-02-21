@@ -1,1 +1,9 @@
 This is a sample text file for adding in the Github and checking after git pull whether it is reflected in the local or not
+
+
+yes changes happening in the local git pull request and it is a "success"
+
+Now we add some chnages to the file  in the local and update it to the remote repo
+
+
+ 
